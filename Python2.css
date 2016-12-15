@@ -1,0 +1,153 @@
+#wrapper{
+    width: 950px;
+    height: 630px;
+    background-color: #2a537a;
+    padding: 10px;
+    margin-left: 200px;
+}
+
+#Top{
+    display: inline-block;
+    color: white;
+    vertical-align: top;
+    margin-left: 350px;
+    margin-top: -10px;
+
+}
+img{
+    display: inline-block;
+}
+li.inline{
+    display: inline;
+}
+#search{
+    background-color: #333333;
+    padding-top:20px;
+    padding-bottom: 20px;
+    padding-right: 30px;
+    padding-left: 30px;
+    border-radius: 10px;
+    vertical-align: top;
+}
+button{
+    border-radius: 5px;
+    background-color: #2a537a;
+    color: white;
+    box-shadow: 0 2px 2px 0 black, 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+a#text{
+    color: yellow;
+}
+#topBar{
+    color: white;
+    background:linear-gradient(#3468bc,#2a537a, #3468bc);
+    width: 750px;
+    margin-left: 80px;
+    border-radius: 10px;
+    font-size: 25px;
+    box-shadow: 5px 5px 5px black;
+    text-align: left;
+    height: 50px;
+}
+#links{
+    color: white;
+    height: 150px;
+    width:250px;
+    display: inline-block;
+    text-align: center;
+    vertical-align: top;
+}
+#links li{
+    margin: 0 0 5px 0;
+}
+a.work{
+    color: white;
+}
+h3{color: yellow;
+font-style: italic;
+width: 300px;
+padding-left: 160px;
+vertical-align: top;
+text-align: center;
+font-family:sans-serif;
+font-weight: lighter;
+}
+#goals{
+    display: inline-block;
+}
+p{
+    width: 630px;
+    text-align: center;
+    vertical-align: top;
+    color: white;
+}
+h5{
+    color: white;
+    text-align: center;
+}
+#applications{
+    color: black;
+    display: inline-block;
+    width: 400px;
+    height: 300px;
+    vertical-align: top;
+    text-align: center;
+    border-top: #487fd6;
+    border-style: solid;
+    border-width: thick;
+    border-left: white;
+    border-bottom: white;
+    border-right: white;
+    margin-top: 15px;
+}
+#gettingStarted{
+    display: inline-block;
+    width: 400px;
+    height: 300px;
+    vertical-align: top;
+    margin-left: 270px;
+    text-align: center;
+    border-top: #487fd6;
+    border-style: solid;
+    border-width: thick;
+    border-left: white;
+    border-bottom: white;
+    border-right: white;
+    margin-top: 15px;
+}
+#applications li{
+    color: #487fd6;
+    list-style-type: square;
+    color: black;
+}
+#gettingStarted li{
+    color: #487fd6;
+    list-style-type: square;
+    color: black;
+}
+ span{
+    color: #487fd6;
+}
+
+#copyright{
+    text-align: center;
+    color: #95afd8;
+    background-color: #2a537a;
+    width: 990px;
+    margin-left: 200px;
+}
+#bottom{
+    background-color: #2a537a;
+    width: 950px;
+    margin-left: 200px;
+    padding: 20px;
+    color: #95afd8;
+    font-size: 20px;
+    text-align: center;
+}
+#bottom li{
+    display: inline;
+}
+#blue span{
+    color: #487fd6;
+}
